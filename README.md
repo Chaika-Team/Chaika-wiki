@@ -16,19 +16,19 @@
 1. **[Главная страница (Home)](https://github.com/Chaika-Team/Chaika-wiki/wiki/Home)**  
    Введение в проект, основная информация о целях и задачах.
 
-2. **[Функциональные Спецификации (FS)](https://github.com/Chaika-Team/Chaika-wiki/wiki/FS)**  
+2. **[Функциональные Спецификации (FS)](https://github.com/Chaika-Team/Chaika-wiki/wiki/FS.md)**  
    Описание всех функциональных требований к системе.
 
-3. **[Высокоуровневое проектирование (HLD)](https://github.com/Chaika-Team/Chaika-wiki/wiki/HLD)**  
+3. **[Высокоуровневое проектирование (HLD)](https://github.com/Chaika-Team/Chaika-wiki/wiki/HLD.md)**  
    Архитектура системы, диаграммы компонентов и описание взаимодействий.
 
-4. **[Детальное проектирование (DD)](https://github.com/Chaika-Team/Chaika-wiki/wiki/DD)**  
+4. **[Детальное проектирование (DD)](https://github.com/Chaika-Team/Chaika-wiki/wiki/DD.md)**  
    Подробное описание модулей, диаграммы последовательностей и взаимодействие между подсистемами.
 
-5. **[Руководство пользователя](https://github.com/Chaika-Team/Chaika-wiki/wiki/User_Guide)**  
+5. **[Руководство пользователя](https://github.com/Chaika-Team/Chaika-wiki/wiki/User_Guide.md)**  
    Пошаговые инструкции для пользователей системы.
 
-6. **[FAQ - Часто задаваемые вопросы](https://github.com/Chaika-Team/Chaika-wiki/wiki/FAQ)**  
+6. **[FAQ - Часто задаваемые вопросы](https://github.com/Chaika-Team/Chaika-wiki/wiki/FAQ.md)**  
    Ответы на распространенные вопросы и советы по использованию системы.
 
 ## Использование
